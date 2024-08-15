@@ -1,0 +1,4 @@
+100.0
+100.0
+40
+E:\university\final\abaqus-2D-voronoi-tesselation
